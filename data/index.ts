@@ -1,7 +1,7 @@
 import Edutap from '../public/Edu-tap.png'
 import ProjectTwoImage from '../public/DarkFantacy.png';
 import malefashion from '../public/malefashion.png'
-import ProjectThreeImage from '../public/NetFlix.png';
+import ProjectThreeImage from '../public/Netflix.png';
 import passwordGen from '../public/password.png';
 import connections from '../public/connections.png';
 import TalkWaveAI from '../public/Screenshot (82).png';
