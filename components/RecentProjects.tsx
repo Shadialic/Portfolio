@@ -1,5 +1,5 @@
 "use client"
-import Image from "next/image";
+import Image, { StaticImageData } from "next/image";
 import React, { useState } from "react";
 import { CardBody, CardContainer, CardItem } from "./ui/3d-card";
 import { projects } from "@/data";
@@ -8,7 +8,7 @@ type ProjectDataType = {
   id: number;
   title: string;
   des: string;
-  img: string;
+  img: string | StaticImageData;
   link?: string;
   videoLink?: string;
   liveLink?: string;
