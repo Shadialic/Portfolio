@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Shadil Ali Portfolio",
   description: "Portfolio",
-  icons: "/logo.png", 
+  icons: "/logo.jpg", 
 };
 
 
